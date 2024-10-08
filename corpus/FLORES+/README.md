@@ -4,7 +4,7 @@
 
 The file FLORES+.zip file contains the translation of the devtest set of [FLORES+](https://github.com/openlanguagedata/flores) into the Valencian variant of the Catalan language.
 
-The file is provided compressed (password: `multilingual machine translation`) to prevent them from being automatically crawled and added to training datasets.
+The file is provided compressed (password: `multilingual`) to prevent them from being automatically crawled and added to training datasets.
 
 Work carried out within the project "Traducción automática neuronal para el valenciano", funded by Diputación de Alicante.
 
