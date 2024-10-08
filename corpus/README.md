@@ -1,4 +1,4 @@
-Spanish - Valencian parallel corpus and Valencian Monolingual corpus crawled
+Spanish - Valencian parallel corpora and Valencian monolingual crawled corpus 
 ================================================================================================
 
 ## About these corpora
