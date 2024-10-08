@@ -16,8 +16,8 @@ These changes were then manually reviewed, and additional necessary modification
 
 The following resources were used to guide the process:
 * List of lexical items that differ across the different dialects of the Catalan language: [Llista diatòpica del lèxic català](https://ca.wikipedia.org/wiki/Llista_diat%C3%B2pica_del_l%C3%A8xic_catal%C3%A0)
-• [Diccionari normatiu valencià](https://www.avl.gva.es/lexicval/)
-• Linguistic criteria for the institutional use of the Valencian dialect in the Valencian universities: [Criteris lingüístics](https://sl.ua.es/en/assessorament/documentos/criteris-linguistics.pdf)
+* [Diccionari normatiu valencià](https://www.avl.gva.es/lexicval/)
+* Linguistic criteria for the institutional use of the Valencian dialect in the Valencian universities: [Criteris lingüístics](https://sl.ua.es/en/assessorament/documentos/criteris-linguistics.pdf)
 
 ## License
 
